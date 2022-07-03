@@ -1,0 +1,2 @@
+# StrayAnimalRescuePlatformManagementSystem
+流浪动物救助平台管理系统-毕业设计
